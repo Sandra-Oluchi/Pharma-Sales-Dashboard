@@ -1,4 +1,5 @@
 ###  Pharmacy Sales Dashboard – Product & Regional Performance Analysis
+# Link:https://public.tableau.com/app/profile/sandra.igboabuchukwu/viz/PharmacysalesDashboard_Sandra/PharmacySalesDashboard
 # 1. Project Overview
 
 This project analyzes pharmacy sales data across product categories, years, and states to identify patterns, high-performing products, and areas of underperformance. The goal is to provide actionable insights that can help pharmacy managers and stakeholders optimize sales strategies, improve inventory planning, and strengthen decision-making.
